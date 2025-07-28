@@ -12,7 +12,7 @@ The dataset was loaded using pandas. Initial checks were performed to understand
 2. **Data Cleaning**
 The 'INDONESIA' entry in the REGION column was removed to focus specifically on provincial-level data.
 
-3. **Regional Average Salary Analysis (1997-2022)**
+3. **Regional Average Salary Analysis (1997-2022):**
 
 - Top 5 Regions with Highest Average Salary: Identified and visualized the regions with the highest overall average salaries across the entire 1997-2022 period.
 
